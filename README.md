@@ -50,7 +50,7 @@
 		<td>0.02</td>
 	</tr>
 
-
+<p>Este histograma tem repreentado uma imagem de 3bits ou seja 8 tons de cinza. Na tabela cada tom de cinza tem uma quantidade de pixel, a partir disso é calculado a massa de probabilidade, que consiste em pegar a quantidade de elementos de uma classe e dividir pela quantidade tortal de elementos do conjunto. Essa é a primeira parte da equalização do histograma </p>
 	
 	
 </table>
