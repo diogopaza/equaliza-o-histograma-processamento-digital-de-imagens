@@ -3,3 +3,15 @@
 <h5>Diversos sites da Internet trazém fórmulas para realizar a equalização de um histograma. Porém para para egressos dos cursos de tecnologia e afins como Análise Desenvolvimento de Sistemas, Sistemas para Internet tem pouca afinidade com cálculos.</h5>
 <h6>Histograma</h6>
 
+<table>
+	<thead>
+		Equalização do histograma 
+	</thead>
+	<tbody>
+		<th>
+			<tr>tons de cinza</tr>
+			<tr>quantidade de pixels </tr>
+			<tr>massa de probabilidade</tr>
+		</th>
+	</tbody>
+</table>
