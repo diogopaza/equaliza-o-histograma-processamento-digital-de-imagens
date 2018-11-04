@@ -9,5 +9,12 @@
 		<th>quantidade de pixels </th>
 		<th>massa de probabilidade</th>
 	</tr>
+	<tr>
+		<td>0</td>
+		<td>790</td>
+		<td>0.19</td>
+	</tr>
+
+	
 	
 </table>
