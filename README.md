@@ -4,14 +4,12 @@
 <h6>Histograma</h6>
 
 <table>
-	<thead>
-		Equalização do histograma 
-	</thead>
-	<tbody>
-		<th>
-			<tr>tons de cinza</tr>
-			<tr>quantidade de pixels </tr>
-			<tr>massa de probabilidade</tr>
-		</th>
-	</tbody>
+	
+	
+		<tr>
+			<th>>tons de cinza</th>
+			<th>quantidade de pixels </th>
+			<th>massa de probabilidade</th>
+		</tr>
+	
 </table>
