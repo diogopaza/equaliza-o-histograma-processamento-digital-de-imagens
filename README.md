@@ -75,36 +75,43 @@
 	<tr>
 		<td>1</td>
 		<td>1023</td>
+		<td>0.25</td>
 		<td>0.44</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>850</td>
+		<td>0.21</td>
 		<td>0.65</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>656</td>
+		<td>0.16</td>
 		<td>0.81</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>329</td>
+		<td>0.08</td>
 		<td>0.89</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>245</td>
+		<td>0.06</td>
 		<td>0.95</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>122</td>
+		<td>0.03</td>
 		<td>0.98</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>81</td>
+		<td>0.02</td>
 		<td>1</td>
 	</tr>
 
