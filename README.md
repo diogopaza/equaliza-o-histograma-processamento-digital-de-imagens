@@ -14,6 +14,42 @@
 		<td>790</td>
 		<td>0.19</td>
 	</tr>
+	<tr>
+		<td>1</td>
+		<td>1023</td>
+		<td>0.25</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>850</td>
+		<td>0.21</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>656</td>
+		<td>0.16</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>329</td>
+		<td>0.08</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>245</td>
+		<td>0.06</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>122</td>
+		<td>0.03</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>81</td>
+		<td>0.02</td>
+	</tr>
+
 
 	
 	
