@@ -4,12 +4,10 @@
 <h6>Histograma</h6>
 
 <table>
-	
-	
-		<tr>
-			<th>>tons de cinza</th>
-			<th>quantidade de pixels </th>
-			<th>massa de probabilidade</th>
-		</tr>
+	<tr>
+		<th>tons de cinza</th>
+		<th>quantidade de pixels </th>
+		<th>massa de probabilidade</th>
+	</tr>
 	
 </table>
