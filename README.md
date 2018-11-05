@@ -136,42 +136,55 @@
 		<td>790</td>
 		<td>0.19</td>
 		<td>0.19</td>
+		<td>7*0.19=1.33</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>1</td>
 		<td>1023</td>
 		<td>0.25</td>
 		<td>0.44</td>
+		<td>7*0.44=3.08</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>850</td>
 		<td>0.21</td>
 		<td>0.65</td>
+		<td>4.55</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>656</td>
 		<td>0.16</td>
 		<td>0.81</td>
+		<td>5.67</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>329</td>
 		<td>0.08</td>
 		<td>0.89</td>
+		<td>6.23</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>245</td>
 		<td>0.06</td>
 		<td>0.95</td>
+		<td>6.65</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>122</td>
 		<td>0.03</td>
 		<td>0.98</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>7</td>
